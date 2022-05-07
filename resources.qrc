@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/amber.png</file>
+        <file>resources/diamond.png</file>
+        <file>resources/dynamite.png</file>
+        <file>resources/emerald.png</file>
+        <file>resources/gold.png</file>
+        <file>resources/halo.png</file>
+        <file>resources/laser.png</file>
+        <file>resources/multiplier.png</file>
+        <file>resources/quartz.png</file>
+        <file>resources/ruby.png</file>
+        <file>resources/saphire.png</file>
+        <file>resources/shine.png</file>
+        <file>resources/time.png</file>
+        <file>resources/trophy_bronze.png</file>
+        <file>resources/trophy_gold.png</file>
+        <file>resources/trophy_neutral.png</file>
+        <file>resources/trophy_platinum.png</file>
+        <file>resources/trophy_silver.png</file>
+        <file>resources/ultrasound.png</file>
+        <file>resources/help/grid.png</file>
+        <file>resources/help/grid2.png</file>
+        <file>resources/help/items.png</file>
+        <file>resources/help/laser.png</file>
+        <file>resources/help/multiplier.png</file>
+        <file>resources/help/pures.png</file>
+        <file>resources/help/purpose.png</file>
+        <file>resources/help/rarity.png</file>
+        <file>resources/help/techniques.png</file>
+        <file>resources/help/techniques1.png</file>
+        <file>resources/help/techniques2.png</file>
+        <file>resources/help/test.png</file>
+        <file>resources/help/time.png</file>
+        <file>resources/help/trophies.png</file>
+        <file>resources/help/ultrasons.png</file>
+        <file>resources/help/dynamite.png</file>
+    </qresource>
+</RCC>
